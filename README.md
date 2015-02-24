@@ -16,7 +16,9 @@ Scope:
 
 Scenario
 1: A customer is looking for a good hair salon in her area. She opens TSB.com enters the service and location. TSB displays the list of salons, description, address, phone, website and its reviews.
+
 2: A business owner wants to register the business with TSB.com. Business owner needs to create an account with TSB.com and can enter his/her business category, description, address, pictures, website etc.
+
 3: A customer visited a restaurant and wants to write a review about it. Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner. He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it
 
 Users: Customers, local business owners 
