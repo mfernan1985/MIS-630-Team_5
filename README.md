@@ -1,5 +1,7 @@
 Kinjal's work:
 
+<h2 align='center' >Tri State Businesses (TBS)</h2>
+
 Mission Statement:
 The basic idea is to develop, host and market Tri-State.com and the Tri-State mobile app, which provides information about the local businesses and publishes crowd-sourced reviews about businesses. The company will also train small businesses to respond to reviews responsibly, host social events for reviewers, and provide basic data about businesses, such as hours of operation, location, phone number, website information and reviews.
 Goal:
@@ -24,10 +26,11 @@ Scenario
 Users: Customers, local business owners 
 
 
-Ugandhar's Work:
+
 <html>
 <body>
 <h2 align='center' >Tri State Businesses (TBS)</h2>
+Ugandhar's Work:
 <h4>Introduction:</h4>
 <p>TBS is to help people to find the local businesses like restaurants, hotels, travel, events, listings etc.  It also provides the reviews to the customers to help choosing their services.</P>
 <h4>Goal:</h4>
