@@ -21,7 +21,7 @@ A customer visited a restaurant and wants to write a review about it.<br>
 Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.  He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it.
 
 <table>
-    <th>Search:</th>
+    <th>Search Screen:</th>
     <tr>
       <td>Service:</td><td><input type='text' name='service'></td> 
       <td>Location:</td><td><input type='text' name='location'></td>
