@@ -1,4 +1,5 @@
-Kinjal's work
+Kinjal's work:
+
 Mission Statement:
 The basic idea is to develop, host and market Tri-State.com and the Tri-State mobile app, which provides information about the local businesses and publishes crowd-sourced reviews about businesses. The company will also train small businesses to respond to reviews responsibly, host social events for reviewers, and provide basic data about businesses, such as hours of operation, location, phone number, website information and reviews.
 Goal:
