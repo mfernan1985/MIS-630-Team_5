@@ -12,10 +12,10 @@
   <h4>Scope:</h4>
 <h5>Scenario 1:</h5> 
 A customer is looking for a restaurant to have lunch.<br>
-He/she opens TSB.com enters the service and location. TSB displays the list of restaurants, description, address, phone and its reviews.
+He/she opens TSB.com enters the service and location. TSB displays the list of restaurants, description, address, phone, website and its reviews.
 <h5>Scenario 2:</h5>
 A business owner wants to register this business with TSB.com. <br>
-Business owner needs to create an account with TSB.com and can enter his/her business category, description, address, pictures etc.
+Business owner needs to create an account with TSB.com and can enter his/her business category, description, address, pictures, website etc.
 <h5>Scenario 3:</h5>
 A customer visited a restaurant and wants to write a review about it.<br>
 Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.  He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it.
