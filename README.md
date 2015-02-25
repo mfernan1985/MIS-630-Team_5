@@ -75,6 +75,4 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
       <td>Last Name:</td><td><input type='text' name='serch result'></td> 
       <td>E-mail:</td><td><input type='text' name='serch result'></td> 
       <td>Phone:</td><td><input type='text' name='serch result'></td> 
-      <td>Submit:</td><td><input type='text' name='serch result'></td>
-      <td>Cancel:</td><td><input type='text' name='serch result'></td>
     </tr>
