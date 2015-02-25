@@ -71,8 +71,8 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
     <table>
     <th>Registration Screen:</th>
     <tr>
-      <td>First Name:</td><td><input type='text' name='serch result'></td> 
-      <td>Last Name:</td><td><input type='text' name='serch result'></td> 
-      <td>E-mail:</td><td><input type='text' name='serch result'></td> 
-      <td>Phone:</td><td><input type='text' name='serch result'></td> 
+      <td>First Name:</td><td><input type='text' name='First Name'></td> 
+      <td>Last Name:</td><td><input type='text' name='Last Name'></td> 
+      <td>E-mail:</td><td><input type='text' name='E-Mail'></td> 
+      <td>Phone:</td><td><input type='text' name='Phone'></td> 
     </tr>
