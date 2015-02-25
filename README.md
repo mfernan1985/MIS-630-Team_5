@@ -76,3 +76,12 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
       <td>E-mail:</td><td><input type='text' name='E-Mail'></td> 
       <td>Phone:</td><td><input type='text' name='Phone'></td> 
     </tr>
+    
+    
+    
+    <table>
+    <th>Reviews Screen:</th>
+    <tr>
+      <td>Customer ID:</td><td><input type='text' name='serch result'></td> 
+      <td>Write A Review:</td><td><input type='text' name='serch result'></td>
+    </tr>
