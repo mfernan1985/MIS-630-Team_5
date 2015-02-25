@@ -61,7 +61,10 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
     <th>Result Screen:</th>
     <tr>
       <td>Restaurnat 1:</td><td><input type='text' name='serch result'></td> 
+      
       <td>Restaurnat 2:</td><td><input type='text' name='serch result'></td> 
+      
       <td>Restaurnat 3:</td><td><input type='text' name='serch result'></td> 
+      
       <td>Restaurnat 4:</td><td><input type='text' name='serch result'></td> 
     </tr>
