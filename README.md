@@ -57,6 +57,7 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
     </tr>
     
     
+    
 <table>
     <th>Result Screen:</th>
     <tr>
@@ -64,4 +65,16 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
       <td>Restaurnat 2:</td><td><input type='text' name='serch result'></td> 
       <td>Restaurnat 3:</td><td><input type='text' name='serch result'></td> 
       <td>Restaurnat 4:</td><td><input type='text' name='serch result'></td> 
+    </tr>
+    
+    
+    <table>
+    <th>Registration Screen:</th>
+    <tr>
+      <td>First Name:</td><td><input type='text' name='serch result'></td> 
+      <td>Last Name:</td><td><input type='text' name='serch result'></td> 
+      <td>E-mail:</td><td><input type='text' name='serch result'></td> 
+      <td>Phone:</td><td><input type='text' name='serch result'></td> 
+      <td>Submit:</td><td><input type='text' name='serch result'></td>
+      <td>Cancel:</td><td><input type='text' name='serch result'></td>
     </tr>
