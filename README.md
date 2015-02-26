@@ -31,7 +31,8 @@ Users: Customers, local business owners
   Business owners and customers.
   
   <h4>Scope:</h4>
-  <p>* provide a platform for the customers to search local businesses for their individual needs like a saloon, restaurant, pet grooming parlors etc.
+  <p>
+  * provide a platform for the customers to search local businesses for their individual needs like a saloon, restaurant, pet grooming parlors etc.
 * allow the customers to write reviews about their experience at a particular business
 * allow the local businesses to publish their business information
 * allow the businesses to respond to the reviews
