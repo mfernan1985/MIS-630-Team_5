@@ -29,16 +29,19 @@ A business owner wants to register this business with TSB.com. <br>
 Business owner needs to create an account with TSB.com and can enter his/her business category, description, address, pictures, website etc.
 <h5>Scenario 3:</h5>
 A customer visited a restaurant and wants to write a review about it.<br>
-Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.  He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it.
+Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.( this ID avoids the fake reviews). He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it. This review will in pending status for 20 days so that the Business owner can take action.
 
+<h5>Scenario 4:</h5>
+A Business owner wants to chek the reviews before they publish.<br>
+Business owner can view the pending  reviews.He/she can sort out the issue with customer ans ask them go back and change the review or with draw, else business owner can just respond to the review.
 
 <h5>Mockups:</h5>
 
-<h6>Search & Search Results</h6>
+<h6>Scenario 1:Search & Search Results</h6>
 <img src="TbsSearch.jpg" alt="Smiley face" height="450" width="450">
-<h6>Business Owners Registration</h6>
+<h6>Scenario 2:Business Owners Registration</h6>
 <img src="TbsRegistration.jpg" alt="Smiley face" height="450" width="450">
-<h6>Write Review</h6>
+<h6>Scenario 3:Write Review or update review</h6>
 <img src="TbsCustReview.jpg" alt="Smiley face" height="250" width="350">
-<h6>Review view for Business Owner</h6>
+<h6>Business Owner response to review</h6>
     
