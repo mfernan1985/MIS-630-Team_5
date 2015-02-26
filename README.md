@@ -29,7 +29,7 @@ A business owner wants to register the business with TSB.com. <br>
 Business owner needs to create an account with TSB.com and can enter the business category, description, address, pictures, website url, contact information etc.
 <h5>Scenario 3:</h5>
 A customer visited a restaurant and wants to write a review about it.<br>
-Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.( this ID avoids the fake reviews). He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it. This review will in pending status for 20 days so that the Business owner can take action.
+Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.( this ID avoids the fake reviews). He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it. This review will be pending status for 10 days so that the Business owner can take action.
 
 <h5>Scenario 4:</h5>
 A Business owner wants to chek the reviews before TSB publishes.<br>
