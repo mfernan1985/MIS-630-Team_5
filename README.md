@@ -31,14 +31,15 @@ Users: Customers, local business owners
   Business owners and customers.
   
   <h4>Scope:</h4>
-  <p>
-     1) provide a platform for the customers to search local businesses for their individual needs like a saloon, restaurant, pet     grooming parlors etc.</br>
-     2) allow the customers to write reviews about their experience at a particular business</br>
-     3) allow the local businesses to publish their business information</br>
-     4) allow the businesses to respond to the reviews</br>
-     5) Website/App to reflect all reviews of the businesses correctly that will enable the customer to decide the right place to visit</br>
-     6) Extend training to local businesses to effectively respond to negative feedbacks from customers</br>
-     7) Monitor and reduce fake reviews about the businesses</p>
+ <ol>
+     <li> provide a platform for the customers to search local businesses for their individual needs like a saloon, restaurant, pet     grooming parlors etc.</li>
+     <li> allow the customers to write reviews about their experience at a particular business</li>
+     <li> allow the local businesses to publish their business information</li>
+     <li> allow the businesses to respond to the reviews</li>
+    <li> Website/App to reflect all reviews of the businesses correctly that will enable the customer to decide the right place to visit</li>
+     <li> Extend training to local businesses to effectively respond to negative feedbacks from customers</li>
+     <li> Monitor and reduce fake reviews about the businesses</li>
+</ol>
 <h5>Scenario 1:</h5> 
 A customer is looking for a restaurant to have lunch.<br>
 He/she opens TSB.com enters the service and location. TSB displays the list of restaurants, description, address, phone, website and its reviews.
