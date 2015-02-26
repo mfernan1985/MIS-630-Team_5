@@ -57,6 +57,6 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
 <h6>Business Owners Registration</h6>
 <img src="TbsRegistration.jpg" alt="Smiley face" height="450" width="450">
 <h6>Write Review</h6>
-<img src="TbsCustReview.jpg" alt="Smiley face" height="350" width="350">
+<img src="TbsCustReview.jpg" alt="Smiley face" height="250" width="350">
 <h6>Review view for Business Owner</h6>
     
