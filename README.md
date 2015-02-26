@@ -49,39 +49,4 @@ Business owner needs to create an account with TSB.com and can enter his/her bus
 A customer visited a restaurant and wants to write a review about it.<br>
 Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.  He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it.
 
-<table>
-    <th>Search Screen:</th>
-    <tr>
-      <td>Service:</td><td><input type='text' name='service'></td> 
-      <td>Location:</td><td><input type='text' name='location'></td>
-    </tr>
     
-    
-    
-<table>
-    <th>Result Screen:</th>
-    <tr>
-      <td>Restaurnat 1:</td><td><input type='text' name='serch result'></td> 
-      <td>Restaurnat 2:</td><td><input type='text' name='serch result'></td> 
-      <td>Restaurnat 3:</td><td><input type='text' name='serch result'></td> 
-      <td>Restaurnat 4:</td><td><input type='text' name='serch result'></td> 
-    </tr>
-    
-    
-    <table>
-    <th>Registration Screen:</th>
-    <tr>
-      <td>First Name:</td><td><input type='text' name='First Name'></td> 
-      <td>Last Name:</td><td><input type='text' name='Last Name'></td> 
-      <td>E-mail:</td><td><input type='text' name='E-Mail'></td> 
-      <td>Phone:</td><td><input type='text' name='Phone'></td> 
-    </tr>
-    
-    
-    
-    <table>
-    <th>Reviews Screen:</th>
-    <tr>
-      <td>Customer ID:</td><td><input type='text' name='Customer ID'></td> 
-      <td>Write A Review:</td><td><input type='text' name='Write a Review'></td>
-    </tr>
