@@ -1,4 +1,0 @@
-git clone repo_url_goes_here
-git remote add github git@github.com:user_goes_here/repo_name_here.git
-git add wiener_test.jpg
-git push github working_branch_goes_here
