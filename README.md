@@ -7,7 +7,7 @@
 <h4>Mission statement:</h4>
 <p> The purpose of TBS is to build a database which stores the data of local businesses in a directory which will be accessed by the clients/customers using web application . This directory will make it easier for the clients to find the interested businesses and will also help the businesses to be easily available and accessed by huge customer base of this directory. People can also rate a business or write a review of a business..</P>
 <h4>Goal:</h4>
- The goal is to provide an ability for the local business owners(in try states ) to publish their businesses on the website/app and respond to customer reviews. At the same time, allow the customers to search for the local businesses and write the experience in form of reviews.
+ The goal is to provide an ability for the local business owners(in tri states ) to publish their businesses on the website/app and respond to customer reviews. At the same time, allow the customers to search for the local businesses and write the experience in form of reviews.
 <h4>Users:</h4>
    Local business owners and customers.
   
@@ -34,7 +34,8 @@ Customer opens TSB.com goes to reviews section where he will be asked for custom
 <h5>Scenario 4:</h5>
 A Business owner wants to chek the reviews before they publish.<br>
 Business owner can view the pending  reviews.He/she can sort out the issue with customer ans ask them go back and change the review or with draw, else business owner can just respond to the review.
-
+</br>
+</br>
 <h5>Mockups:</h5>
 
 <h6>Scenario 1:Search & Search Results</h6>
@@ -43,5 +44,5 @@ Business owner can view the pending  reviews.He/she can sort out the issue with 
 <img src="TbsRegistration.jpg" alt="Smiley face" height="450" width="450">
 <h6>Scenario 3:Write Review or update review</h6>
 <img src="TbsCustReview.jpg" alt="Smiley face" height="250" width="350">
-<h6>Business Owner response to review</h6>
+<h6>Scenario 4:Business Owner response to review</h6>
     
