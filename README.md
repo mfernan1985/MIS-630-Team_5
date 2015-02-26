@@ -32,7 +32,7 @@ A customer visited a restaurant and wants to write a review about it.<br>
 Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.( this ID avoids the fake reviews). He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it. This review will in pending status for 20 days so that the Business owner can take action.
 
 <h5>Scenario 4:</h5>
-A Business owner wants to chek the reviews before TBS publishes.<br>
+A Business owner wants to chek the reviews before TSB publishes.<br>
 Business owner can view the pending reviews.He/she can sort out the issue with customer and ask them go back and change the review, else business owner can just respond to the review within 10 days.
 </br>
 </br>
