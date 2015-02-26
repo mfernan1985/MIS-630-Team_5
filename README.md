@@ -1,34 +1,15 @@
 
 
-<h2 align='center' >Tri State Businesses (TBS)</h2>
-
-Mission Statement:
-The basic idea is to develop, host and market Tri-State.com and the Tri-State mobile app, which provides information about the local businesses and publishes crowd-sourced reviews about businesses. The company will also train small businesses to respond to reviews responsibly, host social events for reviewers, and provide basic data about businesses, such as hours of operation, location, phone number, website information and reviews.
-Goal:
-The goal is to provide an ability for the local business owners to publish their businesses on the website/app and respond to customer reviews. At the same time, allow the customers to search for the local businesses and write the experience in form of reviews.
-
-
-Scenario
-1: A customer is looking for a good hair salon in her area. She opens TSB.com enters the service and location. TSB displays the list of salons, description, address, phone, website and its reviews.
-
-2: A business owner wants to register the business with TSB.com. Business owner needs to create an account with TSB.com and can enter his/her business category, description, address, pictures, website etc.
-
-3: A customer visited a restaurant and wants to write a review about it. Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner. He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it
-
-Users: Customers, local business owners 
-
-
-
 <html>
 <body>
 <h2 align='center' >Tri State Businesses (TBS)</h2>
 
-<h4>Introduction:</h4>
-<p>TBS is to help people to find the local businesses like restaurants, hotels, travel, events, listings etc.  It also provides the reviews to the customers to help choosing their services.</P>
+<h4>Mission statement:</h4>
+<p> The purpose of TBS is to build a database which stores the data of local businesses in a directory which will be accessed by the clients/customers using web application . This directory will make it easier for the clients to find the interested businesses and will also help the businesses to be easily available and accessed by huge customer base of this directory. People can also rate a business or write a review of a business..</P>
 <h4>Goal:</h4>
- is to create a database which holds all the information about businesses in try states and giving search ability for the customers.
+ The goal is to provide an ability for the local business owners(in try states ) to publish their businesses on the website/app and respond to customer reviews. At the same time, allow the customers to search for the local businesses and write the experience in form of reviews.
 <h4>Users:</h4>
-  Business owners and customers.
+   Local business owners and customers.
   
   <h4>Scope:</h4>
  <ol>
