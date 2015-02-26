@@ -49,4 +49,14 @@ Business owner needs to create an account with TSB.com and can enter his/her bus
 A customer visited a restaurant and wants to write a review about it.<br>
 Customer opens TSB.com goes to reviews section where he will be asked for customer ID provided by business owner.  He /she will be given an option to write a review, TSB stores the review for that business so that other customers can view it.
 
+
+<h5>Mockups:</h5>
+
+<h6>Search & Search Results</h6>
+<img src="TbsSearch.jpg" alt="Smiley face" height="450" width="450">
+<h6>Business Owners Registration</h6>
+<img src="TbsRegistration.jpg" alt="Smiley face" height="450" width="450">
+<h6>Write Review</h6>
+<img src="TbsCustReview.jpg" alt="Smiley face" height="350" width="350">
+<h6>Review view for Business Owner</h6>
     
