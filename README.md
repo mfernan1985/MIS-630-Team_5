@@ -1,4 +1,4 @@
-Kinjal's work:
+
 
 <h2 align='center' >Tri State Businesses (TBS)</h2>
 
@@ -30,7 +30,7 @@ Users: Customers, local business owners
 <html>
 <body>
 <h2 align='center' >Tri State Businesses (TBS)</h2>
-Ugandhar's Work:
+
 <h4>Introduction:</h4>
 <p>TBS is to help people to find the local businesses like restaurants, hotels, travel, events, listings etc.  It also provides the reviews to the customers to help choosing their services.</P>
 <h4>Goal:</h4>
