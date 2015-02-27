@@ -39,7 +39,7 @@ Business owner can view the pending reviews.He/she can sort out the issue with c
 <h5>Mockups:</h5>
 
 <h6>Scenario 1:Search & Search Results</h6>
-<img src="TbsSearch.jpg" alt="Smiley face" height="550" width="550">
+<img src="TbsSearch.jpg" alt="Smiley face" height="550" width="650">
 <h6>Scenario 2:Business Owners Registration</h6>
 <img src="TbsBWRegistration.jpg" alt="Smiley face" height="550" width="550">
 <h6>Scenario 3:Write Review or update review</h6>
