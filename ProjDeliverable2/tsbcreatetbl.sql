@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `tsbdb`.`BUSINESS` (
   `businessType` VARCHAR(5) NULL,
   `userID` VARCHAR(45) NULL,
   `pwd` VARCHAR(45) NULL,
-  `desc` VARCHAR(1000) NULL,
+  `descr` VARCHAR(1000) NULL,
   `fName` VARCHAR(45) NULL,
   `lName` VARCHAR(45) NULL,
   `addr1` VARCHAR(45) NULL,
