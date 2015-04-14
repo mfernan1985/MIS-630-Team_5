@@ -1,4 +1,5 @@
 
+drop schema if exists tsbdb;
 -- -----------------------------------------------------
 -- Schema tsbdb
 -- -----------------------------------------------------
@@ -22,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `tsbdb`.`BUSINESS` (
   `businessType` VARCHAR(5) NULL,
   `userID` VARCHAR(45) NULL,
   `pwd` VARCHAR(45) NULL,
-  `desc` VARCHAR(45) NULL,
+  `desc` VARCHAR(1000) NULL,
   `fName` VARCHAR(45) NULL,
   `lName` VARCHAR(45) NULL,
   `addr1` VARCHAR(45) NULL,
@@ -58,8 +59,8 @@ CREATE TABLE IF NOT EXISTS `tsbdb`.`CUSTOMER` (
 CREATE TABLE IF NOT EXISTS `tsbdb`.`REVIEW` (
   `businessID` INT NOT NULL,
   `custID` VARCHAR(10) NOT NULL,
-  `review` VARCHAR(200) NULL,
-  `response` VARCHAR(200) NULL,
+  `review` VARCHAR(1000) NULL,
+  `response` VARCHAR(1000) NULL,
   `status` VARCHAR(1) NULL,
   `review_date` DATETIME NULL,
   `response_date` DATETIME NULL,
