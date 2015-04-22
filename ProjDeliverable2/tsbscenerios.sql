@@ -31,8 +31,11 @@ Trader Joes is a neighborhood grocery store with amazing food and drink from aro
 
 # Secnario 3
 # Query: A customer recently visited Banyan Cafe and wants to write a reviw about his experience. Later, the business owner responded to the review.
+#Before writin review receipt table needs to be populated with receipt number to avoid fake reviews
+Insert into RECEIPT(`businessID`,`receiptID`)
+Values(107,1007);
 
-Insert into Review(businessID,custID,review,response,status,review_date,response_date)
+Insert into Review(businessID,receiptID,review,response,status,review_date,response_date)
 Values(107,1007,'if you enjoy thick mucus nose noises and shitty customer service than this is the place for you!!! Felt so dirty here. I would rather they double their prices and have better customer service with employees who like their jobs. So awful. And they could start doing delivery....man oh man! They would kill it with those two things. I should be their marketing and promo manager, just sayin!
 Otherwise, the food was yum (although I felt maybe mucus was in every bite...) The sesame pancake was what ever but the duck pancake was amazing- and I think I got a brand new fresh one which is probably why it was so good. The dumplings were also yum and BIG!...MAJOR moneys worth here. wonton soup was great too. 
 No dine in area. No delivery. No decent customer service!
@@ -47,7 +50,7 @@ yummy but grossed out....weigh your options people!',
 
 -- Query1: List all the reviews that are in pending status --
 -- In case of a negative review, the business can request the customer to change the review (the owner will check all the pending reviews and takes action accordingly to reach out to the customer to change the review, no specific query is run except to check the reviews)
-select businessID,custID,review,status from review where businessID = '102' and status = 'P';
+select businessID,receiptID,review,status from review where businessID = '102' and status = 'P';
 
 -- Query2: Business owner responds to the reviw by writing a response in 10 days
-update review set response ='sorry for inconvenience',status='A',response_date=current_time where businessID= '102' and custID='1003';
+update review set response ='sorry for inconvenience',status='A',response_date=current_time where businessID= '102' and receiptID='1003';
