@@ -38,14 +38,12 @@ CREATE TABLE IF NOT EXISTS `tsbdb`.`BUSINESS` (
 
 
 -- -----------------------------------------------------
--- Table `tsbdb`.`CUSTOMER`
+-- Table `tsbdb`.`RECEIPT`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `tsbdb`.`CUSTOMER` (
+CREATE TABLE IF NOT EXISTS `tsbdb`.`RECEIPT` (
   `businessID` INT NOT NULL,
-  `custID` VARCHAR(10) NOT NULL,
-  `custName` VARCHAR(45) NULL,
-  `custAddress` VARCHAR(45) NULL,
-  PRIMARY KEY (`businessID`, `custID`),
+  `receiptID` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`businessID`, `receiptID`),
   CONSTRAINT `business_fk`
     FOREIGN KEY (`businessID`)
     REFERENCES `tsbdb`.`BUSINESS` (`businessID`)
@@ -58,16 +56,16 @@ CREATE TABLE IF NOT EXISTS `tsbdb`.`CUSTOMER` (
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `tsbdb`.`REVIEW` (
   `businessID` INT NOT NULL,
-  `custID` VARCHAR(10) NOT NULL,
+  `receiptID` VARCHAR(10) NOT NULL,
   `review` VARCHAR(1000) NULL,
   `response` VARCHAR(1000) NULL,
   `status` VARCHAR(1) NULL,
   `review_date` DATETIME NULL,
   `response_date` DATETIME NULL,
-  PRIMARY KEY (`businessID`, `custID`),
+  PRIMARY KEY (`businessID`, `receiptID`),
    CONSTRAINT `cust_fk`
-    FOREIGN KEY ( `businessID` ,`custID`)
-    REFERENCES `tsbdb`.`CUSTOMER` (`businessID` , `custID`)
+    FOREIGN KEY ( `businessID` ,`receiptID`)
+    REFERENCES `tsbdb`.`RECEIPT` (`businessID` , `receiptID`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION);
 
