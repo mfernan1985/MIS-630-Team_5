@@ -104,7 +104,7 @@ Values(105,1007,'OMG
 This store has an excellent selection of toys and gifts for children. 
 The staff are able to provide helpful suggestions based in child s age and interests.',
 'P','2015-04-10');
-Insert into Review(`businessID`,`receiptID`,`review`,`response`,`status`,`review_date`,`response_date`)
+Insert into REVIEW(`businessID`,`receiptID`,`review`,`response`,`status`,`review_date`,`response_date`)
 Values(102,1005,'Came here to look for some reasonably priced suits that were recommended by a colleague of mine.  The guys here are professional and know their stuff.   They take your measurements and help you make a few selections based on a few questions they ask regarding your style, taste and preference.  
 I recommend asking for a suit thats a little more fitting (classic).  Trust me they wont mess up and they are keen on detail!',
 'Thank you for your appreciation Alex','A','2015-04-11','2015-04-11');
